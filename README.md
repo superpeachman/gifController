@@ -1,7 +1,7 @@
 tracingParticles
 ====
 
-![DEMO](wiki/images/0.jpg)
+![DEMO](https://raw.githubusercontent.com/wiki/superpeachman/gifController/images/0.jpg)
 
 Overview
 
