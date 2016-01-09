@@ -1,4 +1,4 @@
-tracingParticles
+gifController
 ====
 
 ![DEMO](https://raw.githubusercontent.com/wiki/superpeachman/gifController/images/0.jpg)
